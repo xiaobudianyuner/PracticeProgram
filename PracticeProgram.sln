@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "warm-up", "warm-up", "{56AFC7A1-4FED-47FC-9DA9-4ABFD731EB58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstTest", "FirstTest\FirstTest.csproj", "{8EE6DDEC-7152-4F2F-A6A7-86E438488198}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EE6DDEC-7152-4F2F-A6A7-86E438488198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE6DDEC-7152-4F2F-A6A7-86E438488198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE6DDEC-7152-4F2F-A6A7-86E438488198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE6DDEC-7152-4F2F-A6A7-86E438488198}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8EE6DDEC-7152-4F2F-A6A7-86E438488198} = {56AFC7A1-4FED-47FC-9DA9-4ABFD731EB58}
+	EndGlobalSection
+EndGlobal
